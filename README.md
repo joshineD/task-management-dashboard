@@ -14,6 +14,18 @@ A simple and functional **Task Management Dashboard** built with **React** and *
 - JavaScript  
 - Vite  
 
+## Demo Login Credentials
+
+To test the app, use the following login details:
+
+### Admin
+email: "admin@example.com",
+password: "123",
+
+### Employee
+email: "employee1@example.com",
+password: "123"
+
 ## 🚀 Live Demo
 Check out the app live: https://react-myproject-dashboard.netlify.app/
 
