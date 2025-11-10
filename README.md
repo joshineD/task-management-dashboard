@@ -18,10 +18,6 @@ A simple and functional **Task Management Dashboard** built with **React** and *
 
 To test the app, use the following login details:
 
-### Admin
-email: "admin@example.com",
-password: "123",
-
 ### Employee
 email: "employee1@example.com",
 password: "123"
