@@ -14,4 +14,7 @@ A simple and functional **Task Management Dashboard** built with **React** and *
 - JavaScript  
 - Vite  
 
+## 🚀 Live Demo
+Check out the app live: https://react-myproject-dashboard.netlify.app/
+
 
